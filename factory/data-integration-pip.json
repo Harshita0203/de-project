@@ -1,0 +1,9 @@
+{
+	"name": "data-integration-pip",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d19d891-a37f-4379-afa1-c4bfa37cb715",
+		"tenantId": "eacc847c-fa2c-410f-9456-016fe90e90db"
+	}
+}
