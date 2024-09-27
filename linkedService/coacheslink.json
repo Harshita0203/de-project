@@ -1,0 +1,13 @@
+{
+	"name": "coacheslink",
+	"properties": {
+		"description": "coaches data",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/Harshita0203/dataset/raw/refs/heads/main/Coaches.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
